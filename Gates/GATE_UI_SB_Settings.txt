@@ -1,0 +1,7 @@
+DangerType: Flood
+Grime: 0.2826087
+BkgDroneVolume: 0
+Palette: 23
+PlacedObjects: ExitSymbolShelter><735.5929><117.3229><, NoSpearStickZone><483.5829><238.318><-236~137, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><78.57001><473.1873><0.3369565><1><464.57><-39.81265><-132.3553><-32.35534><0><0.3173914, OMNI><AM_SUB-BlankState.ogg><829.9221><646.3518><0.326087><1, 
+FadePalette: 20, 0.2282609

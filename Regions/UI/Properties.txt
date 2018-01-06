@@ -1,0 +1,15 @@
+Palette: 23
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.0
+overseersMin: 0
+overseersMax: 4
+Subregion: Unparallelled Innocence
+Subregion: Unparallelled Innocence (Memory Conflux)
+Subregion: Unparallelled Innocence (Recursive Transform Array)
+Subregion: Unparallelled Innocence (Unfortunate Development)
+Subregion: Unparallelled Innocence (General Systems Bus)
+playerGuideOverseerSpawnChance: 0.0
+Room Setting Templates: Mech, Corrupt, Comp

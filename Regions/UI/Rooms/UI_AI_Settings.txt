@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+Clouds: 0
+Grime: 1
+BkgDroneVolume: 0
+RandomItemDensity: 0
+Palette: 10
+Effects: SunBlock-1-14-118, SSMusic-0.01086957-19-8, FireFlies-1-364-70, ZeroGSpecks-0.5-303-288, BrokenZeroG-1-17-62, 
+PlacedObjects: WallMycelia><224.3424><139.3769><265~159, WallMycelia><853.1294><254.1525><25~268, WallMycelia><469.0659><648.0781><183~82, InsectGroup><481.9244><353.6522><-92~62~0~0~FireFly~1, DataPearl><561.0615><88.06686><0~0~0~0~0~0, DataPearl><588.0535><90.96283><0~0~0~0~0~0, DataPearl><271.1149><89.66376><0~0~0~0~0~0, DataPearl><654.8032><87.30722><0~0~0~0~0~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.1998><653.0092><0><0.7456522, OMNI><AM_WIN-StrongWnd2.ogg><649.244><654.55><0.2065217><1, OMNI><SO_SFX-DataTrans2.ogg><828.8108><578.3148><0><0.8434783, OMNI><Weird Deep Hole.wav><695.9273><504.3425><0.4565217><1, 
+FadePalette: 23, 0.3152174

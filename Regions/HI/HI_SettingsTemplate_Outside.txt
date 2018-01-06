@@ -1,0 +1,22 @@
+DangerType: Rain
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2173913
+Grime: 0.3695652
+BkgDroneVolume: 0.2469565
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 5
+EffectColorA: 0
+EffectColorB: 2
+Effects: BrokenZeroG-1-30-30, Flies-0.1630435-20-20, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><832.3298><640.8949><0.4347826><0.9021739, OMNI><AM_ENV-LightWind.ogg><760.3755><521.6558><0.3913043><0.7847826, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_43 - Bio Engineering<eA>vol<eB>0.2021737<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>8<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>17<tA>delay<tB>0<tA>panPos<tB>624.5659<tB>594.0782<tA>fireChance<tB>0.8043478<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>819.5659<tB>938.0782<tA>handlePos<tB>-123.3553<tB>1.644653, RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_HI_GATE<eA>vol<eB>0.3<eA>prio<eB>0.6086956<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>97.39691<tB>467.3286<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
