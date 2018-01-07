@@ -70,17 +70,17 @@ UI_D05 : UI_E05, UI_A13, UI_B04
 END ROOMS
 
 CREATURES
-UI_C02 : 3-Daddy
-UI_F03 : 3-Daddy
-UI_I02 : 8-Daddy
+UI_C02 : 3-Centipede
+UI_F03 : 3-Centipede
+UI_I02 : 3-Tentacle Plant, 4-Tentacle Plant, 5-Tentacle Plant, 8-Centipede
 
 //white and yellow
-(0,1)UI_D06 : 2-Daddy
-(0,1)UI_F02 : 3-Daddy
-(0,1)UI_H01 : 2-Daddy, 4-Daddy
+(0,1)UI_D06 : 2-Centipede
+(0,1)UI_F02 : 3-Centipede
+(0,1)UI_H01 : 2-Centipede, 4-Centipede
 
 //red
-(2)UI_H01 : 2-Daddy
+(2)UI_H01 : 2-Centipede
 
 
 END CREATURES

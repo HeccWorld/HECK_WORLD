@@ -1,16 +1,22 @@
 DangerType: None
 CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
 WaveSpeed: 0.75
 WaveLength: 0.5
 WaveAmplitude: 0
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 1
-Grime: 0
+Grime: 0.09782609
 BkgDroneVolume: 0
 BkgDroneNoThreatVolume: 1
-Palette: 24
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 33
 EffectColorA: 0
 EffectColorB: 12
-Effects: ZeroG-1-20-20, CorruptionSpores-0.2608696-17-80, BrokenZeroG-0-278-21, ZeroGSpecks-0.2934783-279-79, 
-AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.9498><649.0094><0.4565217><1, 
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2717391-23-77 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><853.9553><650.9449><0.3478261><0.9413043, OMNI><SO_SFX-Drowning.ogg><831.9498><649.0094><0.4565217><1, 
+FadePalette: 17, 0.8260869, 0.9021739
