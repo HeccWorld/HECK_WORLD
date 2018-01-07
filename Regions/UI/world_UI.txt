@@ -72,7 +72,7 @@ END ROOMS
 CREATURES
 UI_C02 : 3-Centipede
 UI_F03 : 3-Centipede
-UI_I02 : 3-Tentacle Plant, 4-Tentacle Plant, 5-Tentacle Plant, 8-Centipede
+UI_I02 : 3-Cyan, 4-Cyan, 5-Cyan, 6-Cyan, 7-Cyan, 8-Cyan, 9-Cyan
 
 //white and yellow
 (0,1)UI_D06 : 2-Centipede
