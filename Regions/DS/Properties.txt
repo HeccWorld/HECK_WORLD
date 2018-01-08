@@ -6,7 +6,7 @@ overseersSpawnChance: 0.2
 overseersMin: 0
 overseersMax: 2
 playerGuideOverseerSpawnChance: 0.0
-Subregion: Drainage System
+Subregion: you like puzzle ?
 Room Setting Templates: Inside
 Room_Attr: DS_B02: DropBug-3,
 Room_Attr: DS_A22: DropBug-2,
